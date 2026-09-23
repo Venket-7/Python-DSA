@@ -22,7 +22,10 @@ This repository contains beginner-to-intermediate level Python implementations o
 - Binary Search
 - Linear Search
 - Bubble Sort
+- Insertion Sort
+- Selection Sort
 - Sliding Window Technique
+- Two Pointer Technique
 
 ### Concepts
 - Time Complexity
@@ -35,10 +38,12 @@ This repository contains beginner-to-intermediate level Python implementations o
 
 ```text
 Python-DSA/
-├── searching/
-├── sorting/
-├── linked_list/
-├── queue/
-├── stack/
-├── concepts/
+├── Concepts/
+├── Sorting/
+├── Searching /
+├── Linked_list/
+├── Queue/
+├── Stack/
+├── Sliding Window /
+├── Two Pointer /
 └── README.md
